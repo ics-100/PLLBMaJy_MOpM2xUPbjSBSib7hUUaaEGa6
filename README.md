@@ -27,6 +27,6 @@
 
 ## Ref
 
-* [https://www.youtube.com/playlist?list=PLLBMaJy\_MOpM2xUPbjSBSib7hUUaaEGa6](https://www.youtube.com/playlist?list=PLLBMaJy_MOpM2xUPbjSBSib7hUUaaEGa6)
-* [https://space.bilibili.com/41036636](https://space.bilibili.com/41036636)
-* [https://github.com/tanyugang/CodingMaster](https://github.com/tanyugang/CodingMaster)
+* <https://www.youtube.com/playlist?list=PLLBMaJy_MOpM2xUPbjSBSib7hUUaaEGa6>
+* <https://space.bilibili.com/41036636>
+* <https://github.com/tanyugang/CodingMaster>

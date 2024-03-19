@@ -1,6 +1,5 @@
 # Coding Master - 谭玉刚
 
-* [x] [第9话 详解x86汇编如何操作显卡让显示器打印字符](./ch09)
 * [x] [第10话 认识汇编的正确姿势以及mov指令](./ch10)
 * [x] [第11话 深入mov指令及内存分段，了解汇编地址](./ch11)
 * [x] [第12话 如何正确的调试汇编程序](./ch12)
@@ -14,6 +13,7 @@
 * [ ] [第20话 扒一扒中断向量表的底裤](./ch020)
 * [ ] [第21话 80x86系列CPU以及保护模式](./ch021)
 * [ ] [第22话 32位CPU及ToyOS系统设计](./ch022)
+* **[第9话 How to write framebuffer by assembly?/详解x86汇编如何操作显卡让显示器打印字符](./09/)**
 * [第8话 Old school,booting from MBR/硬盘MBR分区里的x86汇编程序](./08/)
 * [第7话 Oops!my first x86 assembly program doesnot work/第一个x86汇编程序翻车实录](./07/)
 * [第6话番外 The develop environment of x86 Assembly language/x86汇编开发环境搭建，小翻车](./06/b.md)

@@ -1,7 +1,7 @@
 # Coding Master - 谭玉刚
 
 
-* [x] [第3话 CPU的秘密都在这里了，晶体管构成的逻辑门](./ch03)
+
 * [x] [第4话 终于懂了！这个人计算原理及实现讲的有点秀](./ch04)
 * [x] [第5话 我们来造个CPU吧！](./ch05)
 * [x] [第6话 快闪开！我的CPU要起飞了，汇编语言跑起来！](./ch06/a.md)
@@ -22,8 +22,9 @@
 * [ ] [第20话 扒一扒中断向量表的底裤](./ch020)
 * [ ] [第21话 80x86系列CPU以及保护模式](./ch021)
 * [ ] [第22话 32位CPU及ToyOS系统设计](./ch022)
-* [第2话 How the binary math works/二进制算术与布尔代数](./02)
-* [第1话 Electricity and Binary/电与二进制](./01)
+* [第3话 How the CPU works/CPU的秘密都在这里了，晶体管构成的逻辑门](./03/)
+* [第2话 How the binary math works/二进制算术与布尔代数](./02/)
+* [第1话 Electricity and Binary/电与二进制](./01/)
 * [第0话 I want to develop an Toy Operating Syste/其实，我是学软件工程的，一起搞机吧！](./00/)
 
 ## Ref

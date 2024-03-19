@@ -1,6 +1,5 @@
 # Coding Master - 谭玉刚
 
-* [x] [第12话 如何正确的调试汇编程序](./ch12)
 * [x] [第13话 如何正确的git代码以及我对Linus大写的服](./ch13)
 * [x] [第14话 x86汇编的加减法和循环](./ch14)
 * [x] [第15话 汇编的乘除法以及栈的定义使用](./ch15)
@@ -11,6 +10,7 @@
 * [ ] [第20话 扒一扒中断向量表的底裤](./ch020)
 * [ ] [第21话 80x86系列CPU以及保护模式](./ch021)
 * [ ] [第22话 32位CPU及ToyOS系统设计](./ch022)
+* [第12话 How to debug assembly in Bochs/如何正确的调试汇编程序](./12/)
 * [第11话 How the logic memory address works/深入mov指令及内存分段，了解汇编地址](./11/)
 * [第10话 Why should we learn Assembly and the mov instruction/认识汇编的正确姿势以及mov指令](./10/)
 * **[第9话 How to write framebuffer by assembly?/详解x86汇编如何操作显卡让显示器打印字符](./09/)**

@@ -1,6 +1,5 @@
 # Coding Master - 谭玉刚
 
-* [x] [第7话 第一个x86汇编程序翻车实录](./ch07)
 * [x] [第8话 硬盘MBR分区里的x86汇编程序](./ch08)
 * [x] [第9话 详解x86汇编如何操作显卡让显示器打印字符](./ch09)
 * [x] [第10话 认识汇编的正确姿势以及mov指令](./ch10)
@@ -16,6 +15,7 @@
 * [ ] [第20话 扒一扒中断向量表的底裤](./ch020)
 * [ ] [第21话 80x86系列CPU以及保护模式](./ch021)
 * [ ] [第22话 32位CPU及ToyOS系统设计](./ch022)
+* [第7话 Oops!my first x86 assembly program doesnot work/第一个x86汇编程序翻车实录](./07/)
 * [第6话番外 The develop environment of x86 Assembly language/x86汇编开发环境搭建，小翻车](./06/b.md)
 * [第6话 How the CPU Instrcution works/快闪开！我的CPU要起飞了，汇编语言跑起来！](./06/a.md)
 * [第5话 Let`s build our own CPU/我们来造个CPU吧！](./05/)
